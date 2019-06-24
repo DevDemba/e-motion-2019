@@ -9,4 +9,4 @@ Dev : Demba (Lead), Noreez & Dylan
 
 Admin : Sabwele (Lead), Kevin, Issam et Mignon
 
-Projet via Trello - Slack
+Projet via Trello - Slack -
